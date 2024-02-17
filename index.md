@@ -4,19 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a senior Computer Science Undergraduate student who is interested in Machine Learning/ Deep Learning Areas, Specifically Reinforcement Learning and its domains in Decision Making and Transfer Learning.
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I am a senior Computer Science Undergraduate student who is interested in Machine Learning / Deep Learning Areas, Specifically Reinforcement Learning and its domains in Decision Making and Transfer Learning and Continual Learning.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2024]** Stared mt Webpage.
 
 {% include_relative _includes/publications.md %}
 
