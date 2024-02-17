@@ -8,7 +8,7 @@ I am a senior Computer Science Undergraduate student who is interested in Machin
 
 ## News
 
-- **[Feb. 2024]** Stared mt Webpage.
+- **[Feb. 2024]** Stared my Webpage.
 
 {% include_relative _includes/publications.md %}
 
