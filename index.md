@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a senior Computer Science Undergraduate student who is interested in Machine Learning/ Deep Learning Areas, Specifically Reinforcement Learning and its domains in Decision Making and Transfer Learning.
 
 ## Research Interests
 
